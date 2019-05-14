@@ -3,7 +3,7 @@ Analisis del gasto publico del estado uruguayo
 
 Tareas:
 
-* Conseguir los datos de compras directas de OSE del ultimo año usando el formato de datos_ejemplo.csv
+* Conseguir los datos de [compras directas](http://comprasestatales.gub.uy/consultas?tipo-pub=ADJ) de OSE del ultimo año usando el formato de datos_ejemplo.csv
 * Hacer jupyter notebook explorando los datos
   * Visualizacion de proveedores mas grandes
   * Distancia mas cortas entre fecha_publicacion_llamado y fecha_recepcion_ofertas
